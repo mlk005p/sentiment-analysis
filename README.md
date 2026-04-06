@@ -50,7 +50,7 @@ https://www.kaggle.com/datasets/kazanova/sentiment140
 ## Documentation
 
 Detailed project report:
-[View Report](sentiment_analysis_report.pdf)
+[View Report](Sentiment_Analysis_Report_.docx)
 
 ## Note
 
