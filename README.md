@@ -34,10 +34,23 @@ The objective of this project is to classify tweets as positive or negative base
 
 * Model Accuracy: ~79%
 
+### Sentiment Distribution (Bar Chart)
+
+![Bar Chart](bar_chart.png)
+
+### Sentiment Proportions (Pie Chart)
+
+![Pie Chart](pie_chart.png)
+
 ## Dataset
 
 Twitter Sentiment140 Dataset:
 https://www.kaggle.com/datasets/kazanova/sentiment140
+
+## Documentation
+
+Detailed project report:
+[View Report](sentiment_analysis_report.pdf)
 
 ## Note
 
